@@ -1,4 +1,4 @@
-package com.example;
+package com.larz.dom5api;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;

@@ -1,4 +1,4 @@
-package com.example;
+package com.larz.dom5api;
 
 import java.util.List;
 
