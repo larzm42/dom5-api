@@ -30,16 +30,6 @@ public class MonsterSummary {
 	private Integer def; 
 	private Integer mr;
 	private Integer mor; 
-	private Integer wpn1;
-	private Integer wpn2;
-	private Integer wpn3;
-	private Integer wpn4;
-	private Integer wpn5;
-	private Integer wpn6;
-	private Integer wpn7;
-	private Integer armor1;
-	private Integer armor2;
-	private Integer armor3;
 	private Integer basecost;
 	private Integer rcost;
 	private Integer rpcost;
@@ -133,66 +123,6 @@ public class MonsterSummary {
 	}
 	public void setMor(Integer mor) {
 		this.mor = mor;
-	}
-	public Integer getWpn1() {
-		return wpn1;
-	}
-	public void setWpn1(Integer wpn1) {
-		this.wpn1 = wpn1;
-	}
-	public Integer getWpn2() {
-		return wpn2;
-	}
-	public void setWpn2(Integer wpn2) {
-		this.wpn2 = wpn2;
-	}
-	public Integer getWpn3() {
-		return wpn3;
-	}
-	public void setWpn3(Integer wpn3) {
-		this.wpn3 = wpn3;
-	}
-	public Integer getWpn4() {
-		return wpn4;
-	}
-	public void setWpn4(Integer wpn4) {
-		this.wpn4 = wpn4;
-	}
-	public Integer getWpn5() {
-		return wpn5;
-	}
-	public void setWpn5(Integer wpn5) {
-		this.wpn5 = wpn5;
-	}
-	public Integer getWpn6() {
-		return wpn6;
-	}
-	public void setWpn6(Integer wpn6) {
-		this.wpn6 = wpn6;
-	}
-	public Integer getWpn7() {
-		return wpn7;
-	}
-	public void setWpn7(Integer wpn7) {
-		this.wpn7 = wpn7;
-	}
-	public Integer getArmor1() {
-		return armor1;
-	}
-	public void setArmor1(Integer armor1) {
-		this.armor1 = armor1;
-	}
-	public Integer getArmor2() {
-		return armor2;
-	}
-	public void setArmor2(Integer armor2) {
-		this.armor2 = armor2;
-	}
-	public Integer getArmor3() {
-		return armor3;
-	}
-	public void setArmor3(Integer armor3) {
-		this.armor3 = armor3;
 	}
 	public Integer getBasecost() {
 		return basecost;
